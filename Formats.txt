@@ -1,0 +1,8 @@
+2017-2018 : Title, Votes
+
+2019 : Title, Votes, Percentage, Voters
+
+2020-2023 : Title, Votes, Percentage, Voters, Notes (HM/Ties)
+Percentage and turnout do not extend the full columns
+
+2024+ : Year, Month, Rank, Votes, Voters, Notes (HM/Ties) # Includes headers # ask for all ballots files
